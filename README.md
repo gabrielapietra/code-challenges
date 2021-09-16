@@ -1,2 +1,2 @@
 # python
-Arquivos feitos na linguagem Python
+Desafios feitos na linguagem Python
